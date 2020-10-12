@@ -1,3 +1,1 @@
-this js a bot 
-#i dont know what the hell to do
-#someone help me when
+git push heroku master
