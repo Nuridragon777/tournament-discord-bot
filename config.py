@@ -21,6 +21,6 @@ SUPPRESS_CMD_NOT_FOUND = True
 BOT_ASYNC = True
 BOT_ASYNC_POOLSIZE = 10
 
-BOT_IDENTITY = {"token": config["DEFAULT"]["BOT_IDENTITY"]}
+BOT_IDENTITY = {"NzY1Mjk2MzU0OTU1NjI0NDc5.X4SvxQ.EowUWuBgwEkhxgY9Oj4NKuYBiow": config["DEFAULT"]["BOT_IDENTITY"]}
 
 CORE_PLUGINS = ("TournamentManager", "Health", "Backup")
